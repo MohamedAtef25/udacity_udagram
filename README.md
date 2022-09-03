@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+# Elastic Beanstalk Endpoint
+Udagramapp-env.eba-nvqu5grh.us-east-1.elasticbeanstalk.com
+
+# Test Sample
+http://udagramapp-env.eba-nvqu5grh.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Felis_catus-cat_on_snow.jpg/220px-Felis_catus-cat_on_snow.jpg
+
 # Udagram Image Filtering Microservice
 
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
@@ -49,4 +54,4 @@ Add your own domain name and have it point to the running services (try adding a
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 =======
 # udacity_udagram
->>>>>>> c4ab14c4707a2182b6d02ff44a4805f45e60696d
+
